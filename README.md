@@ -6,7 +6,7 @@ Creating a customizable text editor that supports custom formatting and dynamic 
 
 - Custom formatting and dynamic suggestions
 - Integration with Tailwind CSS for styling
-- Easy-to-extend with additional features and custom data
+- Easy to extend with additional features and custom data
 
 ## Prerequisites
 
@@ -30,6 +30,7 @@ cd lexical-editor
 
 
 
+![Capture Editor CustomNode](https://github.com/user-attachments/assets/660656ce-c116-47fb-8f6c-c25e501f0e43)
 
 
 
